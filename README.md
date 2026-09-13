@@ -1,70 +1,34 @@
-# 👩‍💻 Shaghayegh Raisi Nafchi
+# Shaghayegh Raisi Nafchi
 
-💻 Informatik Studentin (FHNW) | IT Support & Junior Developer
+> Junior Java Developer mit Software-Engineering-Bachelor und praktischer Projekterfahrung aus der Schweiz.
 
----
+## Über mich
 
+Ich habe einen Bachelor in Software Engineering aus dem Iran und vertiefe meine Kenntnisse aktuell im Informatik-Studium an der FHNW – mit dem Ziel, gezielt praktische Erfahrung im Schweizer Software-Umfeld zu sammeln. In meinen Projekten arbeite ich mit klarer Architektur, automatisierten Tests und CI/CD.
 
-## 🚀 About Me
+## Projekte
 
-I am an Informatics student in Switzerland with a background in Computer Engineering and experience in web development.
+### [Memory Wall](https://github.com/shaghayegh-IT/java-projects)
+Java 17 · Maven · JUnit 5 · GitHub Actions
 
-Currently, I am building my skills in:
+Speicherspiel mit sauber getrennter `game`/`ui`-Architektur, 16 Unit-Tests und automatisierter CI-Pipeline. Zeigt testbare Spiellogik unabhängig von der Swing-Oberfläche.
 
-* IT Support
-* Java Development
-* Networking Basics
-* System Administration
+### [IT Support Toolkit](https://github.com/shaghayegh-IT/it-support-toolkit)
+Java 17 · REST API · Maven · JUnit 5 · GitHub Actions
 
-I am motivated to start my career in IT Support or Junior IT roles.
+Desktop-Anwendung für Support-Tickets, deren Logik zusätzlich über eine kleine REST-API bereitsteht – lokal gegen einen n8n-Automatisierungsworkflow getestet. 16 Tests, CI konfiguriert.
 
----
+### [Indoor Climate Monitor](https://github.com/shaghayegh-IT/indoor-climate-monitor)
+Python · CircuitPython
 
-## 🛠 Skills
+End-to-End-IoT-Pipeline: Ein Sensor misst CO₂, Temperatur und Luftfeuchtigkeit und sendet die Werte per WiFi an ein Python-Backend mit Live-Dashboard. Mit echter Hardware verifiziert, inklusive Videobeleg – geht über eine reine Kursübung hinaus.
 
-* Java (OOP, projects)
-* SQL (Basics)
-* Linux (Debian)
-* Windows Administration
-* Microsoft 365
-* Git / GitHub
-* Networking (IP, DNS)
+## Technologien
 
----
+Java (OOP, Swing, JDK HttpServer) · Python · Maven · JUnit 5 · REST APIs · Git/GitHub · GitHub Actions (CI/CD) · CircuitPython
 
-## 📂 Projects
+## Kontakt
 
-### 🎮 Memory Wall – Java Game
+Schweiz · raisishaghayegh2020@gmail.com
 
-Interactive memory game built with Java Swing.
-- Game logic and animations
-- Mouse interaction
-- Score and level system
-- Dynamic pattern generation
-
-👉 https://github.com/shaghayegh-IT/java-projects
-
----
-
-### 💻 IT Support Toolkit
-
-Mini Service Desk application with logging system.
-- Ticket system with logging
-- Troubleshooting steps for common IT problems
-- User & device input
-- Structured problem-solving approach
-
-👉 https://github.com/shaghayegh-IT/it-support-toolkit
-
----
-
-## 📫 Contact
-
-* Email: raisishaghayegh2020@gmail.com
-* Location: Switzerland
-
----
-
-## 🎯 Goal
-
-To start my career in IT Support and grow into a professional IT specialist.
+Offen für Stellen als Junior Software Developer, Junior Java Developer oder als Werkstudentin in der Softwareentwicklung.
