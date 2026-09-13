@@ -36,6 +36,6 @@ Java (OOP, Swing, JDK HttpServer) · Python · Maven · JUnit 5 · REST APIs · 
 
 ## Kontakt
 
-Schweiz · raisishaghayegh2020@gmail.com
+Schweiz
 
 Offen für Stellen als Junior Software Developer, Junior Java Developer oder als Werkstudentin in der Softwareentwicklung.
