@@ -4,7 +4,7 @@
 
 ## Über mich
 
-Ich habe einen Bachelor in Software Engineering aus dem Iran und vertiefe meine Kenntnisse aktuell im Informatik-Studium an der FHNW – mit dem Ziel, gezielt praktische Erfahrung im Schweizer Software-Umfeld zu sammeln. In meinen Projekten arbeite ich mit klarer Architektur, automatisierten Tests und CI/CD.
+Ich habe einen Bachelor in Software Engineering und vertiefe meine Kenntnisse aktuell im Informatik-Studium an der FHNW – mit dem Ziel, gezielt praktische Erfahrung im Schweizer Software-Umfeld zu sammeln. In meinen Projekten arbeite ich mit klarer Architektur, automatisierten Tests und CI/CD.
 
 ## Projekte
 
