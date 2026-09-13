@@ -6,6 +6,8 @@
 
 Ich habe einen Bachelor in Software Engineering und vertiefe meine Kenntnisse aktuell im Informatik-Studium an der FHNW – mit dem Ziel, gezielt praktische Erfahrung im Schweizer Software-Umfeld zu sammeln. In meinen Projekten arbeite ich mit klarer Architektur, automatisierten Tests und CI/CD.
 
+Neben der Anwendungsentwicklung interessiere ich mich besonders für Betriebssysteme und Systems Programming. In meinem aktuellen Projekt **msh** entwickle ich eine Mini-Unix-Shell in C11/POSIX und beschäftige mich dabei praktisch mit Prozessen, `fork/exec`, Pipes, File Descriptors, Signalen, Prozessgruppen, Terminal-Steuerung und Job Control.
+
 ## Projekte
 
 ### [Memory Wall](https://github.com/shaghayegh-IT/java-projects)
@@ -22,6 +24,11 @@ Desktop-Anwendung für Support-Tickets, deren Logik zusätzlich über eine klein
 Python · CircuitPython
 
 End-to-End-IoT-Pipeline: Ein Sensor misst CO₂, Temperatur und Luftfeuchtigkeit und sendet die Werte per WiFi an ein Python-Backend mit Live-Dashboard. Mit echter Hardware verifiziert, inklusive Videobeleg – geht über eine reine Kursübung hinaus.
+
+### [msh](https://github.com/shaghayegh-IT/msh)
+C11 · POSIX · Systems Programming
+
+Mini-Unix-Shell in C11/POSIX: eigene Implementierung von fork/exec, Pipes, Signalhandling, Prozessgruppen und Terminal-Steuerung für Job Control. Getestet mit Sanitizern und einem PTY-basierten Test-Harness für Ctrl-C/Ctrl-Z-Verhalten.
 
 ## Technologien
 
